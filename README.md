@@ -13,7 +13,10 @@ April	7
 	
 Min Deviation
 May	0
- 
+
+ 			Positive deviation			Increment has positive impact on orders													
+			Negative deviation			Increment has negative impact on orders													
+
  
  
  
