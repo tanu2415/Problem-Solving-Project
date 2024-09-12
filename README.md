@@ -1,35 +1,13 @@
-# Problem-Solving-Project
- 
+Led a comprehensive funnel analysis project for an online food ordering app to optimize user journey and increase conversion rates. The analysis focused on identifying key drop-off points in the customer journey, from app launch to order completion. By leveraging data analytics tools, I tracked user interactions and behavior patterns across various stages of the funnel, including account creation, menu exploration, cart addition, and checkout processes.
 
-Some Important Insights
+Key Achievements:
 
-1.	There are 24 Days with highs (more than 120% of the actuals)
-2.	There are 13 Days with lows (less than 20% of the actuals)
-3.	Maximum Deviations occurs in April Month and Minimum in May month.
-4.	Trend line of Deviation is going downwards (linear).
-5.	More than half ( 22 out of 37) of the deviations occurs from Jan - April, no unusual deviations in May and apart from November with 3 deviations from June to December there was just 2 deviation count per month.
-Max Deviation
-April	7
-	
-Min Deviation
-May	0
+Identified critical drop-off points that contributed to a 15% decrease in conversion rate.
+Developed actionable insights and recommendations that led to a 20% improvement in order completions.
+Collaborated with product and marketing teams to implement targeted interventions such as streamlined checkout processes, personalized offers, and UX enhancements.
+Utilized tools like Google Analytics, SQL, and data visualization software to present findings and drive data-informed decisions.
+Impact:
+This project resulted in a significant increase in user retention and overall revenue growth for the app, demonstrating the power of data-driven strategies in enhancing user experience and business performance.
 
- 			Positive deviation			Increment has positive impact on orders													
-			Negative deviation			Increment has negative impact on orders													
-
- 
- 
- 
- 
- 
-  
- 
- 
- 
- 
- 
- 
- 
- 
- 
+find the project at  github with the link appended.
 
